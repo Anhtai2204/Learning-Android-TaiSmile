@@ -15,7 +15,7 @@ fun main() {
 
         } else {
             soLanSai++
-            println("Sai")
+            println("Si")
         }
     }
     println("Khóa tài khoản")
